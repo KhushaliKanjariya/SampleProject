@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 547F-2FD8
+
+ Directory of D:\JavaPro
+
+19-03-2022  19:45    <DIR>          .
+19-03-2022  19:45    <DIR>          ..
+19-03-2022  19:45               465 demo.class
+19-03-2022  19:25               145 Demo.java
+19-03-2022  19:45                 0 hello.txt
+               3 File(s)            610 bytes
+               2 Dir(s)  292,582,752,256 bytes free
